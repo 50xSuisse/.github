@@ -1,8 +1,9 @@
 <h1 align="center">👋 Welcome to 50⤬Suisseᐩ</h1>
 
 <p align="center">
+
   <a href="https://50xSuisse.github.io">
-    <img src="https://github.com/50xSuisse/.github/assets/156722656/116afb7a-47da-4b44-bb16-d3d3ef019fef" alt="Swiss Alps" width="500" href="50xSuisse.github.io">
+    <img src="https://github.com/50xSuisse/.github/assets/156722656/7cf407a9-5bd2-4647-bfb1-863dbae296c9" alt="Swiss Alps" width="500" href="50xSuisse.github.io">
   </a>
 </p>
 
