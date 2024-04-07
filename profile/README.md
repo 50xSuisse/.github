@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to 50⤬Suisseᐩ</h1>
+<h1 align="center">⛑ Welcome to 50⤬Suisseᐩ</h1>
 
 <p align="center">
 
@@ -13,7 +13,7 @@
 
 - **SwissQuotes:** Inspiring [quotes](https://50xSuisse.github.io/SwissQuotes) with a touch of Swiss excellence. 🏔️
   - **SwissQuotesAPI *αlpha*:** Powering SwissQuotes. 🎈
-    - ***βeta:*** A refined SwissQuotesAPI, under active development en Suisse. 🧰
+    - ***βeta:*** A revamped, refined, and more powerful SwissQuotesAPI. Currently under active development en Suisse. 🧰
 - **SwissWeather:** Your window to live Swiss weather status. 🌦️
 - **SwissSun:** Track the moments of le Soleil Suisse. ☀️
 - **SwissScript:** A beginner-friendly JavaScript playground by 50⤬Suisseᐩ, with a dash of <a href="https://Swiss.js.org">Swissᐩ</a> simplicity & precision. 🧪
