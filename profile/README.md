@@ -13,7 +13,7 @@
 
 - **SwissQuotes:** Inspiring [quotes](https://50xSuisse.github.io/SwissQuotes) with a touch of Swiss excellence. 🏔️
   - **SwissQuotesAPI *αlpha*:** Powering SwissQuotes. 🎈
-    - **βeta:** A more refined SwissQuotesAPI, currently under active development in Switzerland. 🧰
+    - ***βeta:*** A refined SwissQuotesAPI, under active development en Suisse. 🧰
 - **SwissWeather:** Your window to live Swiss weather status. 🌦️
 - **SwissSun:** Track the moments of le Soleil Suisse. ☀️
 - **SwissScript:** A beginner-friendly JavaScript playground by 50⤬Suisseᐩ, with a dash of <a href="https://Swiss.js.org">Swissᐩ</a> simplicity & precision. 🧪
