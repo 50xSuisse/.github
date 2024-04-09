@@ -12,7 +12,7 @@
 <h4>Explore the beauty of Swiss craftsmanship reflected in our projects:</h4>
 
 - **SwissQuotes:** Inspiring [quotes](https://50xSuisse.github.io/SwissQuotes) with a touch of Swiss excellence. 🏔️
-  - **SwissQuotesAPI:** Powerfully Powering SwissQuotes. 🎈
+  - **SwissQuotesAPI:** A unified API, powerfully powering SwissQuotes. 🎈
 - **SwissWeather:** Your window to live Swiss weather status. 🌦️
 - **SwissSun:** Track the moments of le Soleil Suisse. ☀️
 - **SwissScript:** A beginner-friendly JavaScript playground by 50⤬Suisseᐩ, with a dash of <a href="https://Swiss.js.org">Swissᐩ</a> simplicity & precision. 🧪
